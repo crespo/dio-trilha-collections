@@ -1,4 +1,4 @@
-package com.raulcrespo.list;
+package com.raulcrespo.list.CarrinhoDeCompras;
 
 public class Produto {
     private String nome;

@@ -1,4 +1,4 @@
-package com.raulcrespo.list;
+package com.raulcrespo.list.ListaDeTarefas;
 
 public class Tarefa {
     private String descricao;

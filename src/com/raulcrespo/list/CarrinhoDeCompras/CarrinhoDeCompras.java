@@ -1,4 +1,4 @@
-package com.raulcrespo.list;
+package com.raulcrespo.list.CarrinhoDeCompras;
 
 import java.util.ArrayList;
 import java.util.List;
