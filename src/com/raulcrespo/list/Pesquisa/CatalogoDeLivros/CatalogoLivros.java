@@ -1,4 +1,4 @@
-package com.raulcrespo.list.CatalogoDeLivros;
+package com.raulcrespo.list.Pesquisa.CatalogoDeLivros;
 
 import java.util.ArrayList;
 import java.util.List;

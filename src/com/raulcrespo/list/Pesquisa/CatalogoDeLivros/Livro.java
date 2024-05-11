@@ -1,4 +1,4 @@
-package com.raulcrespo.list.CatalogoDeLivros;
+package com.raulcrespo.list.Pesquisa.CatalogoDeLivros;
 
 public class Livro {
     private String titulo;

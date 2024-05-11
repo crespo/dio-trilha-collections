@@ -1,4 +1,4 @@
-package com.raulcrespo.list.ListaDeTarefas;
+package com.raulcrespo.list.OperacoesBasicas.ListaDeTarefas;
 
 import java.util.ArrayList;
 import java.util.List;
